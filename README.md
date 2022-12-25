@@ -2,4 +2,5 @@
 https://ismet0665.github.io/istanbul-parallax/
 
 
-![istanbul](https://user-images.githubusercontent.com/118618011/209478697-e1e26096-6567-4d11-96db-bf0c7beada8f.gif)
+
+![istanbul](https://user-images.githubusercontent.com/118618011/209478916-690eb62e-aeb2-47c8-aa48-977b19c717ad.gif)
